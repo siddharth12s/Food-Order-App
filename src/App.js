@@ -27,6 +27,7 @@ function App() {
       <main>
         <Meals />
       </main>
+      <p>Copyright &copy; Siddharth Shanker</p>
     </CartProvider>
   );
 }
